@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :pencil:
 
 Eu sou Hosana Reis, programadora Front End, atualmente estou aprendendo e criando projetos com:
 <br>
