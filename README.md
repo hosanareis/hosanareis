@@ -13,8 +13,6 @@ Eu sou Hosana Reis, programadora Front End, atualmente estou aprendendo e criand
   <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 </p>
-<br>
-<br>
 
 [![Hosana Stats](https://github-readme-stats.vercel.app/api?username=hosanareis)](https://github.com/anuraghazra/github-readme-stats)
 <br>
