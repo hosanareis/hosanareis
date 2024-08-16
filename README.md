@@ -9,7 +9,7 @@ Eu sou Hosana Reis, programadora Front End, atualmente estou aprendendo e criand
 ## Connect with me:
 
 <p> 
-<a href="https//www.linkedin.com/in/hosanareisalves">
+<a href="https://www.linkedin.com/in/hosanareisalves/">
   <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 </p>
