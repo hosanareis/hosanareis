@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora Full Stack | Automação com IA
 
-✨ Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
+Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
 Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.
 
 ---
@@ -24,7 +24,7 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 <span style="font-size: 16px; font-weight: bold;">🤖 Automação & IA</span>
 <img src="https://img.shields.io/badge/N8N-%20F25057.svg?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/API-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Webhooks-%23F6851B.svg?style=for-the-badge&logo=webhooks&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
   
-<span style="font-size: 16px; font-weight: bold;">📈 📊Dados & Indicadores</span>
+<span style="font-size: 16px; font-weight: bold;">📈Dados & Indicadores</span>
 <img src="https://img.shields.io/badge/Dashboards-%230081CB.svg?style=for-the-badge&logo=datastudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white"/>
