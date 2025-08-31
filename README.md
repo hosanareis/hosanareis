@@ -2,17 +2,13 @@
   
 <br>
 <br>
-💻 Desenvolvedora Full Stack | Automação com IA  
-
-
-<br>
-<br>
 
 *Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
 Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.*
 
+<br>
 
- 🌍 Conecte-se comigo&nbsp;<a href="https://www.linkedin.com/in/hosanareisalves" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;" /></a>
+### 🌍 Conecte-se comigo&nbsp;<a href="https://www.linkedin.com/in/hosanareisalves" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;" /></a>
 
 
  
