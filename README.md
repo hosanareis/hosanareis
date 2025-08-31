@@ -50,7 +50,12 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 ---
 
 
+<div align="center">
+
 ## Projetos em destaque
+
+</div>
+
 🔹 [Automação de Transcrição com N8N + HuggingFace](link_projeto)  
 Sistema que monitora Google Drive, transcreve áudios e gera resumo automático.  
 
@@ -62,7 +67,11 @@ Análise de dados financeiros com Python e Pandas.
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 ![Hosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
 ---
