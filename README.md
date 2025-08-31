@@ -1,15 +1,15 @@
-# 👋 Olá, eu sou a Hosana Reis  
+#  👩‍💻Olá, eu sou a Hosana Reis, sua futura dev favorita (ou pelo menos uma boa companhia de bugs e commits)  
+<br>
+<br>
+💻 Desenvolvedora Full Stack | Automação com IA  
 
-💻 Desenvolvedora Full Stack | Automação com IA
+<br>
 
 *Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
 Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.*
 
----
-
-## 🌎 Conecte-se comigo <p> <a href="https://www.linkedin.com/in/hosanareisalves/"> <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a> </p>
-
-
+ 🌍 Conecte-se comigo&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/hosanareisalves" width="20" style="vertical-align: middle;"/>
+ 
 ---
 <div align="center">
 
@@ -61,6 +61,11 @@ Site pessoal desenvolvido em HTML, CSS e JavaScript.
 
 🔹 [Dashboard de Indicadores](link_projeto)  
 Análise de dados financeiros com Python e Pandas.  
+
+---
+
+## 🌍 Conecte-se comigo&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/hosanareisalves" width="20" style="vertical-align: middle;"/>
+
 
 ---
 
