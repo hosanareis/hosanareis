@@ -15,7 +15,7 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/> 
 
 
-### 💻 <span style="font-size: 16px; font-weight: bold;">Back-end</span> <br>
+<span style="font-size: 16px; font-weight: bold;">💻 Back-end</span> <br>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
@@ -24,7 +24,7 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 <span style="font-size: 16px; font-weight: bold;">🧠 Automação & IA</span>
 <img src="https://img.shields.io/badge/N8N-%20F25057.svg?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/API-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Webhooks-%23F6851B.svg?style=for-the-badge&logo=webhooks&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
   
-### 📈 <span style="font-size: 16px; font-weight: bold;">Dados & Indicadores</span> <br>
+<span style="font-size: 16px; font-weight: bold;">📈 Dados & Indicadores</span> <br>
 <img src="https://img.shields.io/badge/Google%20Sheets-%2300C853.svg?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dashboards-%230081CB.svg?style=for-the-badge&logo=datastudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
