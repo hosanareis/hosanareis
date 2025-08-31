@@ -15,7 +15,11 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 </div>
 
 ---
+<div align="center">
 
+## Tecnologias & Ferramentas
+
+</div>
 ## Tecnologias & Ferramentas
 <span style="font-size: 30px; font-weight: bold;">🎨 Front-end</span> 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
