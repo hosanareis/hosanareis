@@ -4,6 +4,8 @@
 <br>
 💻 Desenvolvedora Full Stack | Automação com IA  
 
+
+<br>
 <br>
 
 *Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
@@ -62,11 +64,6 @@ Site pessoal desenvolvido em HTML, CSS e JavaScript.
 
 🔹 [Dashboard de Indicadores](link_projeto)  
 Análise de dados financeiros com Python e Pandas.  
-
----
-
-## 🌍 Conecte-se comigo&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/hosanareisalves" width="20" style="vertical-align: middle;"/>
-
 
 ---
 
