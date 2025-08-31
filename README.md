@@ -2,22 +2,21 @@
 
 💻 Desenvolvedora Full Stack | Automação com IA
 
-Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
-Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.
+*Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
+Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.*
+<p> 
+  Conecte comigo:
+<a href="https://www.linkedin.com/in/hosanareisalves/">
+  <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+</p>
 
-
-<div align="center">
-
-👋 Olá, eu sou o Fulano  
-💻 Desenvolvedor Full Stack  
-🤝 Conecte comigo no [LinkedIn](https://www.linkedin.com/in/seuperfil)
-
-</div>
 
 ---
 <div align="center">
 
-## Tecnologias & Ferramentas
+## Tecnologias & Ferramentas 
+<br>
 
 </div>
 
@@ -53,7 +52,7 @@ Atualmente, estou aprimorando minhas habilidades em criação de aplicações co
 <div align="center">
 
 ## Projetos em destaque
-
+<br>
 </div>
 
 🔹 [Automação de Transcrição com N8N + HuggingFace](link_projeto)  
@@ -70,13 +69,14 @@ Análise de dados financeiros com Python e Pandas.
 <div align="center">
 
 ## 📊 GitHub Stats
-
+<br>
 </div>
 ![Hosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
 ---
 
 ## 🌎 Conecte-se comigo
+<br>
 <p> 
 <a href="https://www.linkedin.com/in/hosanareisalves/">
   <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -84,27 +84,7 @@ Análise de dados financeiros com Python e Pandas.
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
 
 [![Hosana Stats](https://github-readme-stats.vercel.app/api?username=hosanareis)](https://github.com/anuraghazra/github-readme-stats)
 <br>
