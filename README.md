@@ -1,4 +1,4 @@
-![Minha Foto](imagemGitHub.png)
+![Minha Foto](./images/imagemGitHub.png)
 
 
 
