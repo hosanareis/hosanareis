@@ -5,6 +5,15 @@
 Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
 Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.
 
+
+<div align="center">
+
+👋 Olá, eu sou o Fulano  
+💻 Desenvolvedor Full Stack  
+🤝 Conecte comigo no [LinkedIn](https://www.linkedin.com/in/seuperfil)
+
+</div>
+
 ---
 
 ## Tecnologias & Ferramentas
