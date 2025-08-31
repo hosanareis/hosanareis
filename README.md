@@ -1,3 +1,8 @@
+![Minha Foto](imagemGitHub.png)
+
+
+
+
 #  👩‍💻Olá, eu sou a Hosana Reis, sua futura dev favorita (ou pelo menos uma boa companhia de bugs e commits)  
 <br>
 <br>
