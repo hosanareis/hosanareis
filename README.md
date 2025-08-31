@@ -1,9 +1,5 @@
-![Minha Foto](./images/imagemGitHub.png)
-
-
-
-
-#  👩‍💻Olá, eu sou a Hosana Reis, sua futura dev favorita (ou pelo menos uma boa companhia de bugs e commits)  
+![Banner](https://github.com/user-attachments/assets/bf222a63-74ba-40a9-b197-b4cf296804bc)
+  
 <br>
 <br>
 💻 Desenvolvedora Full Stack | Automação com IA  
