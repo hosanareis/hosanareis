@@ -4,8 +4,12 @@
 
 *Transformo processos manuais em soluções inteligentes, unindo desenvolvimento web e automação com IA.
 Atualmente, estou aprimorando minhas habilidades em criação de aplicações completas, integrações com APIs e fluxos automatizados com N8N.*
+
+---
+
+## 🌎 Conecte-se comigo
+<br>
 <p> 
-  Conecte comigo:
 <a href="https://www.linkedin.com/in/hosanareisalves/">
   <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -73,15 +77,6 @@ Análise de dados financeiros com Python e Pandas.
 </div>
 ![Hosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
----
-
-## 🌎 Conecte-se comigo
-<br>
-<p> 
-<a href="https://www.linkedin.com/in/hosanareisalves/">
-  <img aling="left" alt="linkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-</p>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
